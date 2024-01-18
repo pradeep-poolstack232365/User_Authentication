@@ -1,0 +1,18 @@
+current directory: /home/lenovo/Desktop/user_authentication/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/home/lenovo/.rvm/rubies/ruby-3.0.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/lenovo/Desktop/user_authentication/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240110-20581-kemkyq sitelibdir\=./.gem.20240110-20581-kemkyq clean
+
+current directory: /home/lenovo/Desktop/user_authentication/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240110-20581-kemkyq sitelibdir\=./.gem.20240110-20581-kemkyq
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/lenovo/Desktop/user_authentication/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240110-20581-kemkyq sitelibdir\=./.gem.20240110-20581-kemkyq install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20240110-20581-kemkyq/skiptrace/internal
+
+current directory: /home/lenovo/Desktop/user_authentication/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240110-20581-kemkyq sitelibdir\=./.gem.20240110-20581-kemkyq clean

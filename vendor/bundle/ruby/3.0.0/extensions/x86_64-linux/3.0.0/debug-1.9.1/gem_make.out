@@ -1,0 +1,19 @@
+current directory: /home/lenovo/Desktop/user_authentication/vendor/bundle/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+/home/lenovo/.rvm/rubies/ruby-3.0.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/lenovo/Desktop/user_authentication/vendor/bundle/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240110-20581-eu5zf4 sitelibdir\=./.gem.20240110-20581-eu5zf4 clean
+
+current directory: /home/lenovo/Desktop/user_authentication/vendor/bundle/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240110-20581-eu5zf4 sitelibdir\=./.gem.20240110-20581-eu5zf4
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/lenovo/Desktop/user_authentication/vendor/bundle/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240110-20581-eu5zf4 sitelibdir\=./.gem.20240110-20581-eu5zf4 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240110-20581-eu5zf4/debug
+
+current directory: /home/lenovo/Desktop/user_authentication/vendor/bundle/ruby/3.0.0/gems/debug-1.9.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240110-20581-eu5zf4 sitelibdir\=./.gem.20240110-20581-eu5zf4 clean
